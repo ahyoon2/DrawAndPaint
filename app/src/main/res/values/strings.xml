@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawAndPaint</string>
+    <string name="change_color">Change color</string>
+    <string name="pen_size">Pen size:</string>
+</resources>
